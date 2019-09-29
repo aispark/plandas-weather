@@ -1,2 +1,3 @@
-# plandas-weather
+# Plandas Weather
+
 Learning React Native by building a Weather App
